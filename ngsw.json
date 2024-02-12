@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1707759669239,
+  "timestamp": 1707760965948,
   "index": "https://moneystats.github.io/index.html",
   "assetGroups": [
     {
@@ -320,7 +320,7 @@
     "https://moneystats.github.io/favicon.ico": "7825ca949617dccf492ad32159ce6f8636b8da2c",
     "https://moneystats.github.io/favicon_trasparent.png": "56042d33dd3c4c9dcd0d79ef1f4b703ffb9393e8",
     "https://moneystats.github.io/index.html": "6c04e2ae89e114b0e9e000572fcf9447b165ddbc",
-    "https://moneystats.github.io/main.js": "de39fe0130cea494e6fb0c28aee4357e4c691f35",
+    "https://moneystats.github.io/main.js": "3088eadfa8b86073abe48079b0f27036a22cd9c7",
     "https://moneystats.github.io/manifest.webmanifest": "a8b0355cdb292efa593f46d0593b1bae25a368c1",
     "https://moneystats.github.io/polyfills-core-js.js": "ecff539cb5d9d9e19b83c18824effe83f508c8b6",
     "https://moneystats.github.io/polyfills-dom.js": "ca63841e70c20774cb94e861ca9baffacc06609c",
