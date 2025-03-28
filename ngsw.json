@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1741375549449,
+  "timestamp": 1743198864485,
   "index": "https://moneystats.github.io/index.html",
   "assetGroups": [
     {
@@ -316,7 +316,7 @@
     "https://moneystats.github.io/assets/core/mock/wallets/app.wallet_by_id_493.mock.json": "2cf4c8c749fff0d618c335a57148ba8b7121f70b",
     "https://moneystats.github.io/assets/core/mock/wallets/app.wallet_by_id_494.mock.json": "40ea4ee1c52c902cfed668202891c0cc715230f5",
     "https://moneystats.github.io/assets/core/services/api/app.service.ts": "addd9543d4a2643efdad7e5cb42668d2a2b81ea2",
-    "https://moneystats.github.io/assets/core/services/api/auth.service.ts": "d3ac50234caddcb0f3ee39c2090ac9b6af7db37f",
+    "https://moneystats.github.io/assets/core/services/api/auth.service.ts": "1ab867bdfccba992f8b67a0668c42084c08f58d4",
     "https://moneystats.github.io/assets/core/services/api/crypto.service.ts": "9e7d4ff9ce41f1b6c956aace6770bd572b93adbe",
     "https://moneystats.github.io/assets/core/services/api/dashboard.service.ts": "0406944d38f2547431987efa948a3e3af744ef62",
     "https://moneystats.github.io/assets/core/services/api/stats.service.ts": "e9a06cf01202b8c56ea844f9dbdb61d574375ebc",
@@ -382,7 +382,7 @@
     "https://moneystats.github.io/favicon.ico": "7825ca949617dccf492ad32159ce6f8636b8da2c",
     "https://moneystats.github.io/favicon_trasparent.png": "56042d33dd3c4c9dcd0d79ef1f4b703ffb9393e8",
     "https://moneystats.github.io/index.html": "3b8341782fd989aeb9b3fbfa3b8cae4fb5d99c89",
-    "https://moneystats.github.io/main.js": "756af2b0780a1813a567eb731fa1f1b123723777",
+    "https://moneystats.github.io/main.js": "a306c3199fb7f546d6f1b6102707d3366e2faa37",
     "https://moneystats.github.io/manifest.webmanifest": "a8b0355cdb292efa593f46d0593b1bae25a368c1",
     "https://moneystats.github.io/polyfills-core-js.js": "5218c194727825ea4a427a6a27a7108c522322a0",
     "https://moneystats.github.io/polyfills-dom.js": "819a032ccf566a85f0ccdd4dbeb844f341a93517",
